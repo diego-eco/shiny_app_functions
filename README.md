@@ -1,2 +1,3 @@
 # shiny_functions
-App Shiny Functions and derivatives
+
+App Shiny sobre funciones y sus derivadas
